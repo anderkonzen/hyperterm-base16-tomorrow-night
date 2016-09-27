@@ -1,0 +1,21 @@
+{
+  "name": "hyperterm-base16-tomorrow-night",
+  "version": "0.0.1",
+  "description": "base16 tomorrow night theme for hyperterm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anderkonzen/hyperterm-base16-tomorrow-night.git"
+  },
+  "keywords": [
+    "hyperterm",
+    "base16",
+    "theme",
+    "tomorrow-night"
+  ],
+  "author": "Anderson Konzen",
+  "license": "MIT"
+}
