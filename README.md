@@ -10,7 +10,7 @@ Add `hyperterm-base16-tomorrow-night` to the `plugins` array in your `.hyperterm
 
 ```js
 plugins: [
-    "hyperterm-base16-tomorrow-night"
-  ],
+  "hyperterm-base16-tomorrow-night"
+],
 ```
 
