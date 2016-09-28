@@ -1,6 +1,6 @@
 {
   "name": "hyperterm-base16-tomorrow-night",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "base16 tomorrow night theme for hyperterm",
   "main": "index.js",
   "scripts": {
