@@ -1,7 +1,7 @@
 {
   "name": "hyperterm-base16-tomorrow-night",
-  "version": "0.1.1",
-  "description": "base16 tomorrow night theme for hyperterm",
+  "version": "0.1.2",
+  "description": "base16 tomorrow night theme for hyper.app",
   "main": "index.js",
   "scripts": {
     "test": "ava"
@@ -11,7 +11,7 @@
     "url": "git+https://github.com/anderkonzen/hyperterm-base16-tomorrow-night.git"
   },
   "keywords": [
-    "hyperterm",
+    "hyper",
     "base16",
     "theme",
     "tomorrow-night"
